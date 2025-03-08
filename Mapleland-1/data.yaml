@@ -1,0 +1,13 @@
+names:
+- me
+- pig
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: mapleland-nrhqu
+  url: https://universe.roboflow.com/maple-mvxyy/mapleland-nrhqu/dataset/1
+  version: 1
+  workspace: maple-mvxyy
+test: ../test/images
+train: ../train/images
+val: ../valid/images
